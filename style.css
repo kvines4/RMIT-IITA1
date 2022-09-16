@@ -96,6 +96,7 @@ section {
 .cover-overlay p,
 .cover-overlay a,
 .cover-overlay h1,
+.cover-overlay h2,
 .cover-overlay li {
   color: white;
 }
